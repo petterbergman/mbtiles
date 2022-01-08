@@ -103,5 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
-/tiles/
-.mbtiles
+# Tiles
+tiles/
+*.mbtiles
+
+# mbutil from postinstall
+mbutil/
